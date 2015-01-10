@@ -1,0 +1,33 @@
+{
+    "groups": [
+        {
+            "title": "Sprint",
+            "files": [
+                {
+                    "title": "Sprint",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Backlog",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Product Backlog",
+                    "file": {
+                        "pdf": "#",
+                        "word":  "#",
+                        "od": "#"
+                    }
+                }
+            ]
+        }
+    ]
+}
