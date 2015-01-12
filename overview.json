@@ -1,8 +1,20 @@
 {
     "paragraphs": [
         {
-            "title": "Empty",
-            "text": ""
+            "title": "Was ist Scrum?",
+            "text": "Scrum ist eine Entwicklungsmethode. Durch seine einfache Struktur und die klar definierten Rollen lassen sich die Scrum-Prinzipien schnell lernen und produktiv einsetzen.<br>Im Mittelpunkt von Scrum steht das selbstorganisierte Entwicklerteam. Um dem Team eine störungsfreie Arbeit zu ermöglichen, gibt es den ScrumMaster, der als Methodenfachmann dafür sorgt, dass der Entwicklungsprozess eingehalten wird. Der ScrumMaster stellt auch die Schnittstelle zum Produktverantwortlichen (Product-Owner) dar.<br>Der Product-Owner ist dafür zuständig Anforderungen zu definieren, zu priorisieren und auch zu tauschen. Dabei ist es bei Scrum klar geregelt, wann der Produktverantwortliche neue oder geänderte Anforderungen beauftragen darf. So besteht eine Möglichkeit in ungestörte Entwicklungszyklen von 2-4 Wochen (Sprints), Produkt-Anforderungen (Features) zu entwickeln. Während eines Sprints wird deshalb der Product Owner seine Vorstellungen von der weiteren Entwicklung ins Product Backlog dokumentieren und so für kommende Sprints einplanen. Erst bei der Planung von dem nächsten Sprint werden die Änderungspläne vom Team eingeplant."
+        },
+        {
+            "title": "Welche Vorteile bietet Scrum?",
+            "text": "Anmerkung: Für kleineren und mittleren Projekte sind die Vorteile Stärker zu bewerten<br>Entwicklersicht:<ul><li>Scrum ist verhältnismäßig einfach zu lernen und lässt sich schnell einsetzen</li><li>Scrum definiert klare Rollen (Entwicklerteam, Produktverantwortlicher und ScrumMaster)</li><li>Es ist gut strukturierten</li></ul><br>Kundensicht:<ul><li>Ein Flexibles Entwicklungsprozess, weil die Prioritäten von Kunden gesetzt und geändert werden können</li><li>Der Fokus liegt auf die Qualität des Produkts: Die Wertschöpfung für den Kunden ist stärker im Vordergrund als die Einhaltung festgesetzten Fristen.</li><li>Es gibt regelmäßig einen funktionsfähigen Zwischenstand</li></ul>"
+        },
+        {
+            "title": "Nachteile gegenüber anderer Verfahren",
+            "text": "Entwicklersicht &amp; Kundensicht:<ul><li>Das Team muss sich selbst organisieren, diese Arbeitsweise kann ungewohnt sein und zu Verunsicherung, Chaos und unrentablen unendlichen Diskussionen führen.</li><li>Man läuft in Gefahr im Tunnelblick nur kurzfristige Lösungen zu schaffen.</li><li>Die starke Abhängigkeit von Sprints [Arbeitsabschnitte, in dem inkrement einer Produktfunktionalität implementiert werden] kann problematisch werden: Anpassungen des Projektverlaufs sind innerhalb der Sprint-Intervalle nicht möglich.</li><li>Scrum braucht entsprechende Projektmanagement-Software und es gibt wenige erproblte Software dazu</li><li>Bei größeren Projekten, die Koordination mehrerer Scrum-Teams (&quot;Scrum of Scrums&quot;) kann schwer und mit erheblichen Aufwand zur Schaffung vom geeigneten Struktur verbunden sein.</li><li>Die Erwartungshaltung an Scrum ist oft unrealistisch: &quot;Scrum löst alle Probleme&quot;</li></ul>"
+        },
+        {
+            "title": "Einsatzbereiche",
+            "text": "Generell kann man Scrum dann einsetzen, wenn die folgenden Voraussetzungen erfüllt sind:<br><ul><li>Scrum fordert ein großes Maß an Eigeninitiative und Verantwortung innerhalb der Projektteams. Die Mitarbeiter müssen in der Lage sein damit umzugehen.</li><li>Der endgültige Fertigstellungstermin der Software soll eine geringe Priorität haben oder in sicherer Entfernung in der Zukunft liegen, denn Scrum ist dynamisch. Neue Anforderungen können in den Backlog eingebaut werden wodurch sich das Projektende verzögern kann. Beim agilen Projektmanagement mit Scrum steht das Ergebnis und der Kunde im Vordergrund, nicht der Termin der Fertigstellung.</li><li>Das Team muss über alle für das Projekt benötigten Kenntnisse verfügen.</li><li>Sie müsssen in der Lage sein, Ihr Produkt in einzeln realisierbare Teile zu zerlegen: Das gewünschte Endprodukt soll nach einzelnen Funktionalitäten aufteilbar sein, weil für die innerhalb eines Sprints [2-3 Wochenlang] entwickelte Funktionaität müssen Tests und Qualitätsprüfungen sowie Übergabe an Kunden stattfinden. </li></ul>"
         }
     ]
 }
