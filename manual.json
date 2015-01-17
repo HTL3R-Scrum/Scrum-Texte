@@ -1,80 +1,176 @@
 {
     "paragraphs": [
         {
+            "title": "Adjusted Estimate",
+            "text": "Adjusted Estimate ist Ein Wert der im Product Backlog verwendet wird. Es ist der Wert der angepassten Sch&auml;tzung. Der Unterschied zwischen der urspr&uuml;nglichen Sch&auml;tzung und der angepassten Sch&auml;tzung wird Adjustment Factor genannt."
+        },
+        {
+            "title": "Adjustment Factor",
+            "text": "Adjustment Factor ist ein Wert zwischen 0 und 1 der angibt um wie viel die Urspr&uuml;ngliche Sch&auml;tzung ver&auml;ndert werden musste, um zur Angepassten Sch&auml;tzung zu gelangen (Adjusted Estimate)"
+        },
+        {
             "title": "Agiles Manifest",
-            "text": "Eine offizielle Erklärung welche Ziele und Absichten von agilen Methoden befolgt beziehungsweise erreicht werden müssen. Hierbei ist durch die Entwicklung von Software folgende Reihung der Werte entstanden:<br>Individuen und Interaktionen mehr als Prozesse und Werkzeuge<br>Funktionierende Software mehr als umfassende Dokumentation<br>Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung<br>Reagieren auf Veränderung mehr als das Befolgen eines Plans."
+            "text": "Eine offizielle Erkl&auml;rung welche Ziele und Absichten von agilen Methoden befolgt beziehungsweise erreicht werden m&uuml;ssen. Hierbei ist folgende Reihung der Werte entstanden:<br>Individuen und Interaktionen mehr als Prozesse und Werkzeuge<br>Funktionierende Software mehr als umfassende Dokumentation<br>Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlung<br>Reagieren auf Ver&auml;nderung mehr als das Befolgen eines Plans."
         },
         {
-            "title": "Timebox",
-            "text": "Timebox in Bezug auf agile Entwicklungsmethoden ist, die Tätigkeit ein Projekt, einzelne Vorgänge des Projekts, oder auch nur eine Besprechung mit einem Endtermin zu versehen.<br>Hierbei wird der Vorgang nach eine zuvor bestimmten Dauer abgeschlossen. Selbst wenn nicht alle dafür geplanten Punkte durchgeführt wurden. Diese Punkte werden einfach in die nächste Timebox verschoben und dort dann durchgeführt. Zweck des Timeboxing bei agilen Methoden ist es einen effizienteren Vorgang der einzelnen Phasen oder Besprechungen zu erreichen."
+            "title": "Blocks List",
+            "text": "Der Scrum Master protokolliert die Fehler der Mitarbeiter die beim Daily Standup Meeting, auch unter Daily Scrum bekannt, gennant werden in die Blocks List."
         },
         {
-            "title": "Team Member",
-            "text": "Ein Teammember oder auch Mitarbeiter ist der einfache Arbeiter des Projektteams. Ein Team besteht zu einem Großteil aus Mitarbeiter. Anzumerken in Bezug auf Scrum ist die Tatsache, dass jeder Teammember ein fundiertes Wissen über jeden Bereich des Projektes haben muss."
+            "title": "Burndown Chart",
+            "text": "Ist eine Grafik, den Projektfortschritt des Projekts, Sprints oder Release in einer Kurve darstellt. Sie zeigt auf der horizontalen Zeitachse die aktuelle Arbeit zum jeweiligen Zeitpunkt an. Durch eine vergangene Sch&auml;tzung l&auml;sst sich das voraussichtliche zeitliche Ende des Projektes prognostizieren bzw. bei Fehlsch&auml;tzungen k&ouml;nnen Gegenma&szlig;nahmen eingeleitet werden."
         },
         {
-            "title": "Team",
-            "text": "Das Team ist die Gesamtheit aller Projektmitglieder.<br>Sie werden unterteilt in<br><ul><li>Team Member</li><li>Scrum Master</li><li>Product Owner</li></ul>"
+            "title": "Burndown Graph",
+            "text": "Entsteht durch den Burndown Chart. Dieser spiegelt, wie schon im Burndown Chart erw&auml;hnt, den zeitlichen Verlauf des Projektes an."
         },
         {
-            "title": "Task",
-            "text": "Das Team zerteilt in der Sprint Planung die für einen Sprint ausgewählten Einträge aus dem Product Backlog in Tasks herunter.<br>Die Bearbeitung dieser Tasks darf normaler weise nicht länger als einen Tag dauern."
-        },
-        {
-            "title": "Stakeholder",
-            "text": "Stakeholder sind Rollen von Personen die sich außerhalb von Scrum befinden. Sie werden nicht von Scrum definiert, folgende Rollen können jedoch für die Verteilung der Rollen hilfreich sein:<br><ul><li>Customer<br>Mit Customer oder Kunde ist der Auftraggeber gemeint dem das Prdukt nach Abschluss zur Verfügung gestellt wird. Er kann entweder intern oder extern sein. Der Product Owner sollte mit ihm im engen Kontakt stehen.</li><li>User<br>Die Rolle des Users oder Anwender umfasst die Personen die das Produkt im Endeffekt benutzen können. Diese Rolle ist für das Scrum-Team von besondere Bedeutung, da sie sich in die Position des Users versetzen sollen um ein möglichst gutes Produkt zu erzeugen. Sie können in Sprint Reviews oder beim Product Backlog Refinement hineingezogen werden um ein gutes Feedback zu bekommen.</li><li>Management<br>Genauso wie User und Customer gehört auch das Management nicht zum Scrum-Team. Trotzdem trägt es die Verantwortung, dass das Projekt gelingt und erfolgreich umgesetzt wird. Es muss Ressourcen zu verfügen stellen und Das Team von externen Arbeitsanforderungen zu schützen.</li></ul>"
+            "title": "Chicken",
+            "text": "Sind Personen die am Projekt interessiert sind, die aber mit der Umsetzung des Projektes nichts zu tun haben und das Projekt gef&auml;hrden k&ouml;nnen. Das Gegenteil zu den Chicken sind die Pigs."
         },
         {
             "title": "Daily Scrum",
-            "text": "Zu Beginn jedes Tages trifft sich das Team für ein kurzes Meeting um den aktuellen Stand des Projektes zu besprechen. Hierbei werden jedoch keine Probleme gelöst sondern nur Informationen zu dem aktuellen Stand des Produktes ausgetauscht.<br>Kommt ein Problem, dass nicht innerhalb der 15 Minuten gelöst werden kann so wird es entweder aufgeschrieben und an den Scrum-Master übergeben, oder in einem späteren Meeting neu besprochen."
+            "text": "Zu Beginn jedes Tages trifft sich das Team f&uuml;r ein kurzes Meeting um den aktuellen Stand des Projektes zu besprechen. Hierbei werden jedoch keine Probleme gel&ouml;st sondern nur Informationen zu dem aktuellen Stand des Produktes ausgetauscht.<br>Die Probleme werden besprochen und falls ein Problem auftritt, welches nicht innerhalb von 15 Minuten gel&ouml;st werden kann, so wir des entweder aufgeschrieben und an den Scrum-Master &uuml;bergeben, oder es wird eine weitere Besprechung zur Behandlung des Problems vereinbart<br>Folgende Punkte m&uuml;ssen von jedem Team Member berichtet werden:<ul><li>Was habe ich gestern gemacht/erledigt</li><li>Was habe ich heute vor</li><li>Was f&uuml;r Probleme habe ich</li></ul>Die Ergebnisse der Besprechung werden in der Regel nicht in einem Protokoll festgehalten. Die To-Do\u2018s k&ouml;nnen jedoch in einem Ticketingsystem aufgenommen werden."
         },
         {
             "title": "Done (Definition of Done)",
-            "text": "Die Definition of Done (DoD) definiert alle Kriterien die der Abschnitt erfüllen muss um als fertig gekennzeichnet zu werden. Der DoD wird von dem gesamten Scrum Team beim Sprint-Planning-Meeting erstellt. Dadur entsteht eine einheitliche Information darüber wann der Software abschnitt al fertig gilt.<br>Das DoD wird während eines Sprints nicht verändert kann jedoch periodisch zwischen den Sprints verändert werden."
+            "text": "Die Definition of Done (DoD) definiert alle Kriterien die der Abschnitt erf&uuml;llen muss um als fertig gekennzeichnet zu werden. Der DoD wird von dem gesamten Scrum Team beim Sprint-Planning-Meeting erstellt bzw. best&auml;tigt. Dadurch entsteht eine einheitliche Information dar&uuml;ber wann der Software abschnitt als fertig gilt.<br>Das DoD wird w&auml;hrend eines Sprints nicht ver&auml;ndert kann jedoch zwischen den Sprints abge&auml;ndert werden."
         },
         {
             "title": "Drag Factor",
-            "text": "Der Drag Factor gibt an wie weit die Dauer des Projekts durch beispielweise verringerte Kenntnis über eine verwendete Software, nach hinten verschoben wird (Drag -&gt; Ziehen)."
+            "text": "Der Drag Factor gibt an wie weit die Urspr&uuml;ngliche Sch&auml;tzung der Dauer des Projektes durch beispielweise verringerte Kenntnis &uuml;ber eine verwendete Software, nach hinten verschoben wird (Drag -&gt; Ziehen/verschieben). In der Anwendung zb.<br>Estimate=InitialEstimateX(1+(complexity+drag+working environment+multipleteams))"
         },
         {
             "title": "Estimated Work Remaining",
-            "text": "Die Estimated Work Remaining gibt, wie der Name bereits sagt an die erwartete Dauer an die Das Projekt, der Sprint, der Task noch benötigt."
+            "text": "Die Estimated Work Remaining gibt, wie der Name bereits sagt die erwartete Dauer an die das Projekt, der Sprint, der Task noch ben&ouml;tigt an.<br>Folgende Methoden zur Sch&auml;tzung k&ouml;nnen angewandt werden:<ul><li>Estimate using Ideal Time<br>Sch&auml;tzung der Zeit erfolgt in Tagen oder Stunden. Das Problem ist, dass diese Sch&auml;tzungen extrem selten wirklich eingehalt werden k&ouml;nnen. Verz&ouml;gerungen k&ouml;nnen entstehen wenn andere Punkte dringend zwischen durch erledigt werden m&uuml;ssen.</li><li>Estimate using Story Points<br>Story Point ist eine Methode zur Sch&auml;tzung die bei Agilen Methoden immer beliebter wird. Es dient dazu die Zeit aufgrund ihrer Komplexit&auml;t und Gr&ouml;&szlig;e zu Sch&auml;tzen nicht aufgrund der Dauer die es vermutlich braucht.</li></ul>Dies kommt daher, dass es Menschen leichter f&auml;llt Komplexit&auml;ten zu bewerten."
+        },
+        {
+            "title": "Functional Requirement",
+            "text": "Ist eine funktionale Anforderung im Product Backlog."
         },
         {
             "title": "Impediment",
-            "text": "Ein Impediment in Scrum ist alles was die Produktivität des Teams verringert. Hierbei kann es sich um ein schlecht motiviertes Teammitglied handeln oder um einen langsamen PC. Somit alles was das Team verlangsamt.<br>Es ist die Aufgabe des Scrum-Masters diese Impediments aus der Welt zu schaffen. Dabei müssen jedoch auch die Teammitglieder helfen indem sie jegliches Impediment an den Scrum Master weitergeben, so dass er sich darum kümmern kann."
+            "text": "Ein Impediment in Scrum ist alles was die Produktivit&auml;t des Teams verringert. Hierbei kann es sich um ein schlecht ausgebildetes Teammitglied handeln oder um einen langsamen PC. Somit alles was das Team verlangsamt.Es ist die Aufgabe des Scrum-Masters diese Impediments aus der Welt zu schaffen. Dabei m&uuml;ssen jedoch auch die Teammitglieder helfen indem sie jegliches Impediment an den Scrum Master weitergeben, so dass er sich darum k&uuml;mmern kann."
         },
         {
             "title": "Increment",
-            "text": "Die Definition eines Increments kann in 2 Teile unterteilt werden:<br><ul><li>Ein Increment ist die Summe aller Product-Backlog Items die innerhalb eines Sprints erfüllt werden</li><li>Alle zuvor gehenden Sprints</li></ul>"
+            "text": "Die Definition eines Increments kann in 2 Teile unterteilt werden:<ul><li>Ein Increment ist die Summe aller Product-Backlog Items die innerhalb eines Sprints erf&uuml;llt werden</li><li>Alle zuvor gehenden Sprints</li></ul>"
         },
         {
             "title": "Increment of Potentially Shippable Functionality",
-            "text": "Beschreibt die Grundanforderung welche ein Increment haben sollte:<br>Was immer sich das Team als  Sprint Goal setzt und somit am Ende des Sprints abliefert, soll theoretisch auslieferbare und in sich abgeschlossene Funktionalität bieten, so dass der Product Owner die Option wahrnehmen kann, das Increment innerhalb eines Zwischen-Sprints produktiv setzen zu lassen."
+            "text": "Beschreibt die Grundanforderung welche ein Increment haben sollte:<br>Was immer sich das Team als  Sprint Goal setzt und somit am Ende des Sprints abliefert, soll theoretisch auslieferbare und in sich abgeschlossene Funktionalit&auml;t bieten, so dass der Product Owner die Option wahrnehmen kann, das Increment innerhalb eines Zwischen-Sprints produktiv setzen zu lassen."
         },
         {
             "title": "Information Radiator",
-            "text": "Information Radiator ist der Oberbegriff von Zetteln, Notizen oder Informationen jeglicher Form die für alle Teammitglieder und auch potenzielle Beobachter sichtbar angebracht werden und die aktuellen Informationen bezüglich des Projektes beinhalten.<br>Wird manchmal auch als &quot;Big Visual Chart&quot; Bezeichnet.<br>Typische Aussagen die durch den Aushang solcher Information Radiator gemacht werden sind die Offenheit gegenüber der Besucher (Stakeholder, etc.), aber auch die Sicherheit des Teams untereinander. Außerdem zeigt es das vorhandene Probleme nicht vertuscht werden sondern offen dargelegt und gelöst werden."
+            "text": "Information Radiator ist der Oberbegriff von Zetteln, Notizen oder Informationen jeglicher Form die f&uuml;r alle Teammitglieder und auch potenzielle Beobachter sichtbar angebracht werden und die aktuellen Informationen bez&uuml;glich des Projektes beinhalten.<br>Wird manchmal auch als &quot;Big Visual Chart&quot; Bezeichnet.<br>Typische Aussagen die durch den Aushang solcher Information Radiator gemacht werden sind die Offenheit gegen&uuml;ber der Besucher (Stakeholder, etc.), aber auch die Sicherheit des Teams untereinander. Au&szlig;erdem zeigt es das vorhandene Probleme nicht vertuscht werden sondern offen dargelegt und gel&ouml;st werden."
         },
         {
             "title": "Initial Estimate",
-            "text": "Initial Estimate ist wie der Name schon sagt, die erste Schätzung der Dauer des Projektes, bzw. der einzelnen Tasks und Sprints. Diese Werte können über den Verlauf des Projektes noch verändert werden."
+            "text": "Initial Estimate ist wie der Name schon sagt, die erste Sch&auml;tzung der Dauer des Projektes, bzw. der einzelnen Tasks und Sprints. Diese Werte k&ouml;nnen &uuml;ber den Verlauf des Projektes noch ver&auml;ndert werden."
         },
         {
             "title": "Meta-Scrum",
-            "text": "Meta Scrum wird auch „Scrum of Scrums“ genannt. Mithilfe von Meta-Scrum kann Scrum in mehrere Agile Gruppen unterteilt werden. Nach jedem Daily Scrums innerhalb eines Teams wird ein Ambassadeur ausgewählt der dann den aktuellen Stand mit den Ambassadeuren der anderen Teams austauscht.<br>Abgesehen davon geht das Scrum of Scrums gleich vor wie jedes Daily Scrum. Es werden abgeschlossene Punkte, folgende Punkte, etc. ausgetauscht und bearbeitet. Ziel ist es die einzelenen Gruppen aneinander anzupassen."
+            "text": "Meta Scrum wird auch &quot;Scrum of Scrums&quot; genannt. Mithilfe von Meta-Scrum kann Scrum in mehrere Agile Gruppen unterteilt werden. Nach jedem Daily Scrums innerhalb eines Teams wird ein Ambassadeur ausgew&auml;hlt der dann den aktuellen Stand mit den Ambassadeuren der anderen Teams austauscht.<br>Abgesehen davon geht das Scrum of Scrums gleich vor wie jedes Daily Scrum. Es werden abgeschlossene Punkte, folgende Punkte, etc. ausgetauscht und bearbeitet. Ziel ist es die einzelenen Gruppen aneinander anzupassen."
+        },
+        {
+            "title": "Non-Functional Requirement",
+            "text": "Ist eine nicht funktionale Anforderung im Product Backlog. "
         },
         {
             "title": "Pig",
-            "text": "In einem Scrum-Projekt werden Personen die direkt an dem Projekt beteiligt sind Pigs genannt. Im Gegensatz dazu stehen die Chicken . Dies kommt aus einem bekannten englischen Witz:<br>A chicken and a pig were brainstorming...<br><ul><li><strong>Chicken</strong>: Let's start a restaurant!</li><li><strong>Pig</strong>: What would we call it?</li><li><strong>Chicken</strong>: Ham 'n' Eggs!</li><li><strong>Pig</strong>: No thanks. I'd be committed, but you'd only be</li> involved!</ul>"
+            "text": "In einem Scrum-Projekt werden Personen die direkt an dem Projekt beteiligt sind Pigs genannt. Im Gegensatz dazu stehen die Chicken. Dies kommt aus einem bekannten englischen Witz:<br>A chicken and a pig were brainstorming...<ul><li><strong>Chicken</strong>: Let's start a restaurant!</li><li><strong>Pig</strong>: What would we call it?</li><li><strong>Chicken</strong>: Ham 'n' Eggs!</li><li><strong>Pig</strong>: No thanks. I'd be committed, but you'd only be involved!</li></ul>"
         },
         {
             "title": "Product Backlog",
-            "text": "Der Product Backlog ist ein fortlaufendes Dokument welches vom Product Owner geschrieben wird. Projekt Stakeholder können jedoch jederzeit Anforderungen hinzufügen. Es enthält eine Liste aller Anforderungen, die an das Produkt gestellt sind. Hierbei ist bereits eine grobe Priorisierung vorzunehmen.<br>Das Product Backlog ist ein Produkt des Release Plannings. "
+            "text": "Der Product Backlog ist ein fortlaufendes Dokument welches vom Product Owner geschrieben wird. Projekt Stakeholder k&ouml;nnen jedoch jederzeit Anforderungen hinzuf&uuml;gen. Es enth&auml;lt eine Liste aller Anforderungen, die an das Produkt gestellt sind. Hierbei ist bereits eine grobe Priorisierung vorzunehmen.<br>Das Product Backlog ist ein Produkt des Release Plannings."
+        },
+        {
+            "title": "Product Backlog Item",
+            "text": "Unter diesem Begriff versteht man eine Anforderung (Requierment) im Product Backlog. Ein Product Backlog Item ist genauer gesch&auml;tzt umso n&auml;her er am Anfang des Product Backlog steht, weil dann ist die Chance h&ouml;her es im n&auml;chsten Sprint abzuschlie&szlig;en/bearbeiten."
+        },
+        {
+            "title": "Product Owner",
+            "text": "Der Prduct Owner ist der Auftraggeber, dieser ist auch verantwortlich f&uuml;r die Product Backlogs. Die Priorit&auml;t der Product Backlogs werden von ihm festgelegt um den Buisness  Value des Produkts zu maximieren."
+        },
+        {
+            "title": "Release",
+            "text": "Dieser Schritt beinhaltet die Freigabe einer Produktversion nach dem ein oder mehrere Sprints abgeschlossen sind. Der Product Owner kann nach jedem Sprint ein Release zu initiieren. Doch er ist sich hier im Klaren das das Team Zeit verliert. Im Sinne agiler Softwareentwicklung ist es vorteilhaft fr&uuml;he und h&auml;ufige Releases zu haben. Da das Team nach jedem Sprint ein Increment of Potentially Shippable Functionality machen muss, sollte ein Release kein Problem f&uuml;r sie sein."
+        },
+        {
+            "title": "Requirement",
+            "text": "Der Product Owner h&auml;lt im Product Backlog die funktionalen oder nicht-funktionalen Anforderungen an dem Produkt fest. Diese Anforderungen werden im den Sprint Backlogs abgearbeitet."
+        },
+        {
+            "title": "Scrum",
+            "text": "Scrum ist ein agiles Prozess, zur Entwicklung von Produkten bzw. Systemen und wird immer mehr in der Softwareentwicklung eingesetzt. Es ist ein iterativer, inkrementelles Prozess, dass nach jeder Iteration (Sprint) ein potentiell lieferbares Produkt zur Verf&uuml;gung stellt. In Scrum hat die Selbstorganisation des Teams eine besonders wichtige Rolle. Sehr viele bereits vorhandene Management und Engineering Praktiken sind bei Scrum unter einem Dach gebracht worden."
+        },
+        {
+            "title": "Scrum Master",
+            "text": "Der Scrum Master ist &uuml;ber dem Entwicklungsteam eine F&uuml;hrungskraft und sorgt daf&uuml;r das Scrum funktioniert. Arbeitsanweisungen erteilen und Team-Mitglieder zu beurteilen geh&ouml;rt nicht zu seine Aufgaben. Er geh&ouml;rt meist nicht zum Team selbst sonder is Team extern und arbeitet mit dem Entwicklungsteam zusammen. Die Meetings werden von ihm moderiert und k&uuml;mmert sich um die Probleme und Hindernisse die mein den Sprint entstehen."
+        },
+        {
+            "title": "Self-Organisation",
+            "text": "Selbstorganisation spielt in Scrum eine wichtige Rolle. Wenn man Scrum-Teams beobachtet erkennt man, dass das Team aus 3 Managern besteht, ScrumMaster, ProductOwner und die Self-Organisation. Es organisiert sich und trifft ohne Vorgesetzten Entscheidungen. Es ist einzig dem Scrum-Proze&szlig; und seinen Regeln verpflichtet. Selbstorganisation passiert nicht automatisch. Erst nach Ablauf der Daily Scrums, nachdem die Team Members Erfahrung gesammelt haben, beginnt die Eigenverantwortung und das Team fungiert intern sehr effektiv."
+        },
+        {
+            "title": "Sprint",
+            "text": "In der Regel dauert ein Sprint 30 Tage, m&ouml;glich sind auch weniger Tage. Prinzipiell tut das Team die Anforderungen erf&uuml;llen die beim Sprint Planning Meeting geplant wurden. W&auml;hrend eines Sprints finden keine &Auml;nderungen von au&szlig;en statt, das Team wird schlicht in Ruhe arbeiten gelassen. Der Product Owner darf jediglich den Product Backlog f&uuml;r zuk&uuml;nftige Sprints ver&auml;ndern."
+        },
+        {
+            "title": "Sprint Backlog",
+            "text": "H&auml;lt alle Arbeitsschritte(Tasks) f&uuml;r den aktuellen Sprint fest. Dies wird ein einer Liste aufgeschrieben. Diese Liste wird vom Scrum Team t&auml;glich aktualisiert und repr&auml;sentiert den aktuellen Stand. Durch den Sprint Backlog hat der Scrum Master eine &uuml;bersicht und kann jederzeit falls n&ouml;tig ist eingreifen um das Sprint Goal nicht zu gef&auml;hrden."
+        },
+        {
+            "title": "Sprint Backlog Task",
+            "text": "Eine konkrete Aufgabe aus dem Sprint Backlog. Im Vergleich zu dem Produkt Backlog sind diese Tasks mehr technisch Orientiert und sollten, falls sie mehr als zwei Personentage in Anspruch nehmen, in kleinere, k&uuml;rzere Tasks aufgeteilt werden. Deswegen werden Requirements meistens durch mehrere Tasks erf&uuml;llt."
+        },
+        {
+            "title": "Sprint Cancellation",
+            "text": "Der Sprint wird vorzeitig von dem Scrum Master abgebrochen. Zu so etwas sollte es allerdings nur in absoluten Ausnahmesituationen kommen. H&auml;ufige Grunde daf&uuml;r sind pl&ouml;tzliche gro&szlig;e &Auml;nderungen und starke Fehleinsch&auml;tzungen."
+        },
+        {
+            "title": "Sprint Goal",
+            "text": "Das Sprint Goal ist wie der Name schon sagt, dass zu erreichende Ziel des Sprints. Es wird vom Product Owner definiert, jedoch muss es vom Team anerkannt werden. Allerdings ist ein Sprint Goal nur ein optionales Scrum Element."
+        },
+        {
+            "title": "Sprint Planning Meeting",
+            "text": "Am Anfang jedes Sprints findet das sogenannte Sprint Planning Meeting statt. Es dient dazu die Arbeitspakete f&uuml;r den kommenden Sprints zu besprechen. Bei dem Meeting sollte das Product Backlog schon vorhanden sein. Aus dem Product Backlog, welches von Product Owner pr&auml;sentiert wird, sollte im laufe des Sprint Planning Meetings ein Sprint Backlog entstehen. Der Product Owner darf zwar W&uuml;nsche und Anforderungen stellen aber das Scrum Team darf selber festlegen was im kommendem Sprint machbar ist."
+        },
+        {
+            "title": "Sprint Planning Meeting",
+            "text": "Am Anfang jedes Sprints findet das sogenannte Sprint Planning Meeting statt. Es dient dazu die Arbeitspakete f&uuml;r den kommenden Sprints zu besprechen. Bei dem Meeting sollte das Product Backlog schon vorhanden sein. Aus dem Product Backlog, welches von Product Owner pr&auml;sentiert wird, sollte im laufe des Sprint Planning Meetings ein Sprint Backlog entstehen. Der Product Owner darf zwar W&uuml;nsche und Anforderungen stellen aber das Scrum Team darf selber festlegen was im kommendem Sprint machbar ist."
+        },
+        {
+            "title": "Sprint Retrospective Meeting",
+            "text": "Eine Art kleines Lessons Learned am Ende eines Sprints. Vom Scrum Master moderiert, diskutiert das Team &uuml;ber aufgetretene Probleme, deren L&ouml;sungen und allgemein wie man die Produktivit&auml;t f&uuml;r den n&auml;chsten Sprint zu steigern."
+        },
+        {
+            "title": "Sprint Review Meeting",
+            "text": "Ist ein Meeting das am Ende eines Sprints stattfindet. Dies wird in einer 4-st&uuml;ndigen Time-Box abgehalten, wo das Scrum Team dem Product Owner und anderen interessierten Personen eine live Vorstellung des System was sie im letzten Sprint erledigt haben. Hier darf nur die fertige Produktfunktionalit&auml;t hergezeigt werden. "
+        },
+        {
+            "title": "Stakeholder",
+            "text": "Stakeholder sind Personen oder Gruppen, die ein berechtigtes Interesse am Verlauf oder Ergebnis eines Projektes haben. Sie werden nicht von Scrum definiert, folgende Rollen k&ouml;nnen jedoch f&uuml;r die Verteilung der Rollen hilfreich sein:<ul><li>Customer<br>Mit Customer oder Kunde ist der Auftraggeber gemeint dem das Prdukt nach Abschluss zur Verf&uuml;gung gestellt wird. Er kann entweder intern oder extern sein. Der Product Owner sollte mit ihm im engen Kontakt stehen</li><li>User<br>Die Rolle des Users oder Anwender umfasst die Personen die das Produkt im Endeffekt benutzen k&ouml;nnen. Diese Rolle ist f&uuml;r das Scrum-Team von besondere Bedeutung, da sie sich in die Position des Users versetzen sollen um ein m&ouml;glichst gutes Produkt zu erzeugen. Sie k&ouml;nnen in Sprint Reviews oder beim Product Backlog Refinement hineingezogen werden um ein gutes Feedback zu bekommen.</li><li>Management<br>Genauso wie User und Customer geh&ouml;rt auch das Management nicht zum Scrum-Team. Trotzdem tr&auml;gt es die Verantwortung, dass das Projekt gelingt und erfolgreich umgesetzt wird. Es muss Ressourcen zu verf&uuml;gen stellen und Das Team von externen Arbeitsanforderungen zu sch&uuml;tzen.</li></ul>"
         },
         {
             "title": "Story Point",
-            "text": "Der Story Point ist eine Einheit um die Größe einer User Story zu beschreiben, Die Größe ist jedoch nicht eindeutig definieren.<br>Ein Bsp:<br><blockquote>Ein Team entscheidet sich die Größe folgenderweise zu definieren:<br>Um die User Story umzusetzen benötigen wir mehrere Befragungsrunden um Informationen unserer User zu bekommen.</blockquote>Hierbei wäre eine Umfragerunde ein Story Point.<br>Wichtig ist dabei, dass die Einheit der User Story nicht die Länge der User Story ist, vielmehr eine Eigenschaft der Struktur der User Story. Möglicher weise sogar mehrere Eigenschaften.<br>Dies macht einen entscheidenden Unterschied. Da nämlich nicht die Dauer und Größe der User-Story Points sondern die Struktur herangezogen wird, spielen Erfahrung und Wissen der Mitarbeiter keine Rolle. Auch bei einer sich ändernden Erfahrung bleibt die User Story gemessen in Story Points gleich groß."
+            "text": "Der Story Point ist eine Einheit um die Gr&ouml;&szlig;e einer User Story zu beschreiben, Die Gr&ouml;&szlig;e ist jedoch nicht eindeutig definiert.<br>Ein Bsp:<br>Ein Team entscheidet sich die Gr&ouml;&szlig;e folgenderweise zu definieren:<br>Um die User Story umzusetzen ben&ouml;tigen wir mehrere Befragungsrunden um Informationen unserer User zu bekommen.<br>Hierbei w&auml;re eine Umfragerunde ein Story Point.<br>Wichtig ist dabei, dass die Einheit der User Story nicht die L&auml;nge der User Story ist, vielmehr eine Eigenschaft der Struktur der User Story. M&ouml;glicher weise sogar mehrere Eigenschaften.<br>Dies macht einen entscheidenden Unterschied. Da n&auml;mlich nicht die Dauer und Gr&ouml;&szlig;e der User-Story Points sondern die Struktur herangezogen wird, spielen Erfahrung und Wissen der Mitarbeiter keine Rolle. Auch bei einer sich &auml;ndernden Erfahrung bleibt die User Story gemessen in Story Points gleich gro&szlig;."
+        },
+        {
+            "title": "Task",
+            "text": "Das Team zerteilt in der Sprint Planung die f&uuml;r einen Sprint ausgew&auml;hlten Eintr&auml;ge aus dem Product Backlog in Tasks herunter.<br>Die Bearbeitung eines Tasks darf normalerweise nicht l&auml;nger als einen Tag dauern."
+        },
+        {
+            "title": "Team",
+            "text": "Das Team ist die Gesamtheit aller Projektmitglieder.<br>Sie werden unterteilt in<ul><li>Team Member</li><li>Scrum Master</li><li>Product Owner</li></ul>"
+        },
+        {
+            "title": "Team Member",
+            "text": "Ein Teammember oder auch Mitarbeiter ist der einfache Arbeiter des Projektteams. Ein Team besteht zu einem Gro&szlig;teil aus Mitarbeiter. Anzumerken in Bezug auf Scrum ist die Tatsache, dass jeder Teammember ein fundiertes Wissen &uuml;ber jeden Bereich des Projektes haben muss."
+        },
+        {
+            "title": "Timebox",
+            "text": "Timebox in Bezug auf agile Entwicklungsmethoden ist, die T&auml;tigkeit ein Projekt, einzelne Vorg&auml;nge des Projekts, oder auch nur eine Besprechung mit einem Endtermin zu versehen.<br>Hierbei wird der Vorgang nach eine zuvor bestimmten Dauer abgeschlossen. Selbst wenn nicht alle daf&uuml;r geplanten Punkte durchgef&uuml;hrt wurden. Diese Punkte werden einfach in die n&auml;chste Timebox verschoben und dort dann durchgef&uuml;hrt. Zweck des Timeboxing bei agilen Methoden ist es einen effizienteren Vorgang der einzelnen Phasen oder Besprechungen zu erreichen."
         }
     ]
 }
