@@ -20,10 +20,105 @@
                     }
                 },
                 {
-                    "title": "Product Backlog",
+                    "title": "Sprint Cancellation",
                     "file": {
                         "pdf": "#",
-                        "word":  "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Planning Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Retrospective Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Review Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Backlog",
+            "files": [
+                {
+                    "title": "Sprint Backlog",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Project Backlog",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Meetings",
+            "files": [
+                {
+                    "title": "Sprint Planning Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Retrospective Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Review Meeting",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weiteres",
+            "files": [
+                {
+                    "title": "Teamskills",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Daily Scrum",
+                    "file": {
+                        "pdf": "#",
+                        "word": "#",
                         "od": "#"
                     }
                 }
