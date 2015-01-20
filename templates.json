@@ -4,50 +4,18 @@
             "title": "Sprint",
             "files": [
                 {
-                    "title": "Sprint",
-                    "file": {
-                        "pdf": "#",
-                        "word": "#",
-                        "od": "#"
-                    }
-                },
-                {
-                    "title": "Sprint Backlog",
-                    "file": {
-                        "pdf": "#",
-                        "word": "#",
-                        "od": "#"
-                    }
-                },
-                {
-                    "title": "Sprint Cancellation",
-                    "file": {
-                        "pdf": "#",
-                        "word": "#",
-                        "od": "#"
-                    }
-                },
-                {
                     "title": "Sprint Planning Meeting",
                     "file": {
-                        "pdf": "#",
-                        "word": "#",
-                        "od": "#"
-                    }
-                },
-                {
-                    "title": "Sprint Retrospective Meeting",
-                    "file": {
-                        "pdf": "#",
-                        "word": "#",
+                        "pdf": "https://docs.google.com/file/d/0BweN1o5SFlKhOFJzN3FVZ2Fsb0k/edit",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdVhNTFl4d2xGYXc/edit",
                         "od": "#"
                     }
                 },
                 {
                     "title": "Sprint Review Meeting",
                     "file": {
-                        "pdf": "#",
-                        "word": "#",
+                        "pdf": "https://docs.google.com/file/d/0BweN1o5SFlKhdFE2U0ZwOHhkeGM/edit",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdjRyWVJQZ0JTSFk/edit",
                         "od": "#"
                     }
                 }
@@ -57,18 +25,42 @@
             "title": "Backlog",
             "files": [
                 {
-                    "title": "Sprint Backlog",
+                    "title": "Sprint Backlog - Schule Deutsch",
                     "file": {
                         "pdf": "#",
-                        "word": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdUhvR3M0dlJtVjg/edit",
                         "od": "#"
                     }
                 },
                 {
-                    "title": "Project Backlog",
+                    "title": "Sprint Backlog - Schule Englisch",
                     "file": {
                         "pdf": "#",
-                        "word": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhQXliYlpDZmJuMXM/edit",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Backlog - Matura Deutsch",
+                    "file": {
+                        "pdf": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhaWlGQjE1SnNhM3c/edit",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Sprint Backlog - Matura Englisch",
+                    "file": {
+                        "pdf": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhSVZoRkUtNTd0c0U/edit",
+                        "od": "#"
+                    }
+                },
+                {
+                    "title": "Product Backlog",
+                    "file": {
+                        "pdf": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhTTZWVVVBcGg3NlE/edit",
                         "od": "#"
                     }
                 }
@@ -80,24 +72,16 @@
                 {
                     "title": "Sprint Planning Meeting",
                     "file": {
-                        "pdf": "#",
-                        "word": "#",
-                        "od": "#"
-                    }
-                },
-                {
-                    "title": "Sprint Retrospective Meeting",
-                    "file": {
-                        "pdf": "#",
-                        "word": "#",
+                        "pdf": "https://docs.google.com/file/d/0BweN1o5SFlKhOFJzN3FVZ2Fsb0k/edit",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdVhNTFl4d2xGYXc/edit",
                         "od": "#"
                     }
                 },
                 {
                     "title": "Sprint Review Meeting",
                     "file": {
-                        "pdf": "#",
-                        "word": "#",
+                        "pdf": "https://docs.google.com/file/d/0BweN1o5SFlKhdFE2U0ZwOHhkeGM/edit",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdjRyWVJQZ0JTSFk/edit",
                         "od": "#"
                     }
                 }
@@ -110,15 +94,15 @@
                     "title": "Teamskills",
                     "file": {
                         "pdf": "#",
-                        "word": "#",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhc3FydE9QaHJlYlU/edit",
                         "od": "#"
                     }
                 },
                 {
                     "title": "Daily Scrum",
                     "file": {
-                        "pdf": "#",
-                        "word": "#",
+                        "pdf": "https://docs.google.com/file/d/0BweN1o5SFlKhYnlLNVdhRFVjR0E/edit",
+                        "word": "https://docs.google.com/file/d/0BweN1o5SFlKhdDNGV3ZSTUtIRjQ/edit",
                         "od": "#"
                     }
                 }
